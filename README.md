@@ -1,0 +1,3 @@
+# What is this Project?
+
+This project is a console-based snake game in C++ for Windows, using the Windows API for graphical output and input handling. It features object-oriented programming with Snake and Food classes to control the snake's movements, growth upon eating food, and collision detection with boundaries. The gameplay involves moving the snake using keyboard inputs ('w', 's', 'a', 'd') and increases the score with each food item consumed. The game updates dynamically, employing efficient screen refreshing to reduce flicker, and ends when the snake collides with the game area edges.
